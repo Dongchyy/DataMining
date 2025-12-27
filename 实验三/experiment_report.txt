@@ -1,0 +1,65 @@
+
+    ================================
+        医学文档信息抽取实验报告
+    ================================
+    
+    一、实验概述
+    -------------
+    本实验旨在从非结构化医学文档中提取关键信息，包括基因、药物、症状和效果，
+    并使用知识图谱进行可视化。
+    
+    二、数据统计
+    -------------
+    1. 文档数量: 4
+    2. 提取实体总数: 33
+        - 基因实体: 7
+        - 药物实体: 6
+        - 症状实体: 20
+        - 效果实体: 0
+    3. 知识图谱统计:
+        - 节点数量: 37
+        - 关系数量: 33
+    
+    三、方法概述
+    -------------
+    1. 文本预处理: 使用spacy进行文本清洗和分词
+    2. 实体识别: 使用BERT-based NER模型提取医学实体
+    3. 关系构建: 基于文档-实体包含关系构建知识图谱
+    4. 可视化: 使用NetworkX和Matplotlib进行图可视化
+    
+    四、提取的关键实体示例
+    ----------------------
+    
+    文档 1 (PMID: 12345678):
+        gene: patients. patients with egfr exon 19 deletions showed significant response to gefitinib treatment. common symptoms included, this study investigates egfr gene mutations in, egfr gene mutations and response to gefitinib in patients with
+        symptom: non - small cell lung cancer, cough, rash... (共6个)
+
+    文档 2 (PMID: 23456789):
+        gene: patients with brca1 or brca2 mutations receiving olaparib showed improved progression - free survival. symptoms like, brca1 and brca2 mutations in
+        drug: patients treated with olaparib, were common. olaparib treatment led to reduced
+        symptom: bloating, tumor, abdominal pain... (共6个)
+
+    文档 3 (PMID: 34567890):
+        drug: metformin effectively lowers blood glucose levels in, effect of metformin on blood glucose control in
+        symptom: ##olyuria, polydipsia, patients. common symptoms included... (共4个)
+
+    五、实验结果
+    -------------
+    实验成功实现了医学文档的信息抽取和知识图谱构建。提取的实体可以用于:
+    1. 医学研究辅助
+    2. 临床决策支持
+    3. 药物发现
+    4. 疾病关联分析
+    
+    六、后续改进建议
+    -----------------
+    1. 使用更专业的医学NER模型
+    2. 添加更复杂的关系抽取（如药物-疾病治疗关系）
+    3. 整合更多数据源
+    4. 使用Neo4j进行交互式可视化
+    5. 添加实体消歧和规范化
+    
+    ================================
+         实验完成时间: 2025-12-18 14:36:26
+    ================================
+    

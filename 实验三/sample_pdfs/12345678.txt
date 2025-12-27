@@ -1,0 +1,4 @@
+Title: EGFR gene mutations and response to gefitinib in patients with non-small cell lung cancer
+
+Abstract:
+This study investigates EGFR gene mutations in non-small cell lung cancer patients. Patients with EGFR exon 19 deletions showed significant response to gefitinib treatment. Common symptoms included cough, dyspnea, and chest pain. Adverse effects of gefitinib included rash and diarrhea. The study confirms that gefitinib is effective for patients with specific EGFR mutations.

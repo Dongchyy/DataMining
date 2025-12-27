@@ -1,0 +1,178 @@
+{
+  "basic_stats": {
+    "num_nodes": 35,
+    "num_edges": 595,
+    "density": 1.0,
+    "avg_degree": 34.0
+  },
+  "top_entities_by_degree": [
+    {
+      "name": "pain",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 3873
+    },
+    {
+      "name": "surgery",
+      "type": "treatment",
+      "degree": 34,
+      "frequency": 2789
+    },
+    {
+      "name": "fever",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 1750
+    },
+    {
+      "name": "hypertension",
+      "type": "disease",
+      "degree": 34,
+      "frequency": 1570
+    },
+    {
+      "name": "infection",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 1523
+    },
+    {
+      "name": "chemotherapy",
+      "type": "treatment",
+      "degree": 34,
+      "frequency": 1109
+    },
+    {
+      "name": "cancer",
+      "type": "disease",
+      "degree": 34,
+      "frequency": 1096
+    },
+    {
+      "name": "bleeding",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 1042
+    },
+    {
+      "name": "swelling",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 1041
+    },
+    {
+      "name": "diabetes",
+      "type": "disease",
+      "degree": 34,
+      "frequency": 1006
+    },
+    {
+      "name": "antibiotics",
+      "type": "treatment",
+      "degree": 34,
+      "frequency": 989
+    },
+    {
+      "name": "vomiting",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 967
+    },
+    {
+      "name": "weakness",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 824
+    },
+    {
+      "name": "nausea",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 811
+    },
+    {
+      "name": "cough",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 759
+    },
+    {
+      "name": "inflammation",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 753
+    },
+    {
+      "name": "weight loss",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 705
+    },
+    {
+      "name": "antibiotic",
+      "type": "treatment",
+      "degree": 34,
+      "frequency": 671
+    },
+    {
+      "name": "headache",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 637
+    },
+    {
+      "name": "dyspnea",
+      "type": "symptom",
+      "degree": 34,
+      "frequency": 630
+    }
+  ],
+  "network_communities": [
+    {
+      "community_id": 1,
+      "size": 35,
+      "entities": [
+        {
+          "name": "pneumonia",
+          "type": "disease"
+        },
+        {
+          "name": "prednisone",
+          "type": "treatment"
+        },
+        {
+          "name": "weakness",
+          "type": "symptom"
+        },
+        {
+          "name": "fever",
+          "type": "symptom"
+        },
+        {
+          "name": "cancer",
+          "type": "disease"
+        },
+        {
+          "name": "stroke",
+          "type": "disease"
+        },
+        {
+          "name": "hypertension",
+          "type": "disease"
+        },
+        {
+          "name": "rash",
+          "type": "symptom"
+        },
+        {
+          "name": "shortness of breath",
+          "type": "symptom"
+        },
+        {
+          "name": "bleeding",
+          "type": "symptom"
+        }
+      ]
+    }
+  ]
+}

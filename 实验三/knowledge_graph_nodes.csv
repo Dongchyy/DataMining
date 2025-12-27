@@ -1,0 +1,38 @@
+id,label,name
+doc_12345678,Document,EGFR gene mutations and response to gefitinib in patients with non-small cell lung cancer
+gene_patients_patients_with_egfr_exon_19_deletions_showed_significant_response_to_gefitinib_treatment_common_symptoms_included,Gene,patients. patients with egfr exon 19 deletions showed significant response to gefitinib treatment. common symptoms included
+gene_this_study_investigates_egfr_gene_mutations_in,Gene,this study investigates egfr gene mutations in
+gene_egfr_gene_mutations_and_response_to_gefitinib_in_patients_with,Gene,egfr gene mutations and response to gefitinib in patients with
+symptom_non_-_small_cell_lung_cancer,Symptom,non - small cell lung cancer
+symptom_cough,Symptom,cough
+symptom_rash,Symptom,rash
+symptom_diarrhea,Symptom,diarrhea
+symptom_chest_pain,Symptom,chest pain
+symptom_##yspnea,Symptom,##yspnea
+doc_23456789,Document,BRCA1 and BRCA2 mutations in ovarian cancer patients treated with olaparib
+gene_patients_with_brca1_or_brca2_mutations_receiving_olaparib_showed_improved_progression_-_free_survival_symptoms_like,Gene,patients with brca1 or brca2 mutations receiving olaparib showed improved progression - free survival. symptoms like
+gene_brca1_and_brca2_mutations_in,Gene,brca1 and brca2 mutations in
+drug_patients_treated_with_olaparib,Drug,patients treated with olaparib
+drug_were_common_olaparib_treatment_led_to_reduced,Drug,were common. olaparib treatment led to reduced
+symptom_bloating,Symptom,bloating
+symptom_tumor,Symptom,tumor
+symptom_abdominal_pain,Symptom,abdominal pain
+symptom_##ologic,Symptom,##ologic
+symptom_toxicities,Symptom,toxicities
+symptom_ovarian_cancer,Symptom,ovarian cancer
+doc_34567890,Document,Effect of metformin on blood glucose control in type 2 diabetes
+drug_metformin_effectively_lowers_blood_glucose_levels_in,Drug,metformin effectively lowers blood glucose levels in
+drug_effect_of_metformin_on_blood_glucose_control_in,Drug,effect of metformin on blood glucose control in
+symptom_##olyuria,Symptom,##olyuria
+symptom_polydipsia,Symptom,polydipsia
+symptom_patients_common_symptoms_included,Symptom,patients. common symptoms included
+symptom_type_2_diabetes,Symptom,type 2 diabetes
+doc_45678901,Document,HER2 overexpression and trastuzumab efficacy in breast cancer
+gene_her2_overexpression_and_trastuzumab_efficacy_in,Gene,her2 overexpression and trastuzumab efficacy in
+gene_her2_-_positive,Gene,her2 - positive
+drug_patients_treated_with_trastuzumab_showed_improved_survival_symptoms_included,Drug,patients treated with trastuzumab showed improved survival. symptoms included
+drug_and_nipple_discharge_trastuzumab_combined_with_chemotherapy_reduced_recurrence_risk,Drug,and nipple discharge. trastuzumab combined with chemotherapy reduced recurrence risk.
+symptom_##iac_toxicity,Symptom,##iac toxicity
+symptom_breast_lump,Symptom,breast lump
+symptom_card,Symptom,card
+symptom_breast_cancer,Symptom,breast cancer

@@ -1,0 +1,500 @@
+{
+  "nodes": [
+    {
+      "id": "doc_12345678",
+      "label": "Document",
+      "properties": {
+        "pmid": "12345678",
+        "title": "EGFR gene mutations and response to gefitinib in patients with non-small cell lung cancer"
+      }
+    },
+    {
+      "id": "gene_patients_patients_with_egfr_exon_19_deletions_showed_significant_response_to_gefitinib_treatment_common_symptoms_included",
+      "label": "Gene",
+      "properties": {
+        "name": "patients. patients with egfr exon 19 deletions showed significant response to gefitinib treatment. common symptoms included",
+        "type": "gene"
+      }
+    },
+    {
+      "id": "gene_this_study_investigates_egfr_gene_mutations_in",
+      "label": "Gene",
+      "properties": {
+        "name": "this study investigates egfr gene mutations in",
+        "type": "gene"
+      }
+    },
+    {
+      "id": "gene_egfr_gene_mutations_and_response_to_gefitinib_in_patients_with",
+      "label": "Gene",
+      "properties": {
+        "name": "egfr gene mutations and response to gefitinib in patients with",
+        "type": "gene"
+      }
+    },
+    {
+      "id": "symptom_non_-_small_cell_lung_cancer",
+      "label": "Symptom",
+      "properties": {
+        "name": "non - small cell lung cancer",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_cough",
+      "label": "Symptom",
+      "properties": {
+        "name": "cough",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_rash",
+      "label": "Symptom",
+      "properties": {
+        "name": "rash",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_diarrhea",
+      "label": "Symptom",
+      "properties": {
+        "name": "diarrhea",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_chest_pain",
+      "label": "Symptom",
+      "properties": {
+        "name": "chest pain",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_##yspnea",
+      "label": "Symptom",
+      "properties": {
+        "name": "##yspnea",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "doc_23456789",
+      "label": "Document",
+      "properties": {
+        "pmid": "23456789",
+        "title": "BRCA1 and BRCA2 mutations in ovarian cancer patients treated with olaparib"
+      }
+    },
+    {
+      "id": "gene_patients_with_brca1_or_brca2_mutations_receiving_olaparib_showed_improved_progression_-_free_survival_symptoms_like",
+      "label": "Gene",
+      "properties": {
+        "name": "patients with brca1 or brca2 mutations receiving olaparib showed improved progression - free survival. symptoms like",
+        "type": "gene"
+      }
+    },
+    {
+      "id": "gene_brca1_and_brca2_mutations_in",
+      "label": "Gene",
+      "properties": {
+        "name": "brca1 and brca2 mutations in",
+        "type": "gene"
+      }
+    },
+    {
+      "id": "drug_patients_treated_with_olaparib",
+      "label": "Drug",
+      "properties": {
+        "name": "patients treated with olaparib",
+        "type": "drug"
+      }
+    },
+    {
+      "id": "drug_were_common_olaparib_treatment_led_to_reduced",
+      "label": "Drug",
+      "properties": {
+        "name": "were common. olaparib treatment led to reduced",
+        "type": "drug"
+      }
+    },
+    {
+      "id": "symptom_bloating",
+      "label": "Symptom",
+      "properties": {
+        "name": "bloating",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_tumor",
+      "label": "Symptom",
+      "properties": {
+        "name": "tumor",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_abdominal_pain",
+      "label": "Symptom",
+      "properties": {
+        "name": "abdominal pain",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_##ologic",
+      "label": "Symptom",
+      "properties": {
+        "name": "##ologic",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_toxicities",
+      "label": "Symptom",
+      "properties": {
+        "name": "toxicities",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_ovarian_cancer",
+      "label": "Symptom",
+      "properties": {
+        "name": "ovarian cancer",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "doc_34567890",
+      "label": "Document",
+      "properties": {
+        "pmid": "34567890",
+        "title": "Effect of metformin on blood glucose control in type 2 diabetes"
+      }
+    },
+    {
+      "id": "drug_metformin_effectively_lowers_blood_glucose_levels_in",
+      "label": "Drug",
+      "properties": {
+        "name": "metformin effectively lowers blood glucose levels in",
+        "type": "drug"
+      }
+    },
+    {
+      "id": "drug_effect_of_metformin_on_blood_glucose_control_in",
+      "label": "Drug",
+      "properties": {
+        "name": "effect of metformin on blood glucose control in",
+        "type": "drug"
+      }
+    },
+    {
+      "id": "symptom_##olyuria",
+      "label": "Symptom",
+      "properties": {
+        "name": "##olyuria",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_polydipsia",
+      "label": "Symptom",
+      "properties": {
+        "name": "polydipsia",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_patients_common_symptoms_included",
+      "label": "Symptom",
+      "properties": {
+        "name": "patients. common symptoms included",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_type_2_diabetes",
+      "label": "Symptom",
+      "properties": {
+        "name": "type 2 diabetes",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "doc_45678901",
+      "label": "Document",
+      "properties": {
+        "pmid": "45678901",
+        "title": "HER2 overexpression and trastuzumab efficacy in breast cancer"
+      }
+    },
+    {
+      "id": "gene_her2_overexpression_and_trastuzumab_efficacy_in",
+      "label": "Gene",
+      "properties": {
+        "name": "her2 overexpression and trastuzumab efficacy in",
+        "type": "gene"
+      }
+    },
+    {
+      "id": "gene_her2_-_positive",
+      "label": "Gene",
+      "properties": {
+        "name": "her2 - positive",
+        "type": "gene"
+      }
+    },
+    {
+      "id": "drug_patients_treated_with_trastuzumab_showed_improved_survival_symptoms_included",
+      "label": "Drug",
+      "properties": {
+        "name": "patients treated with trastuzumab showed improved survival. symptoms included",
+        "type": "drug"
+      }
+    },
+    {
+      "id": "drug_and_nipple_discharge_trastuzumab_combined_with_chemotherapy_reduced_recurrence_risk",
+      "label": "Drug",
+      "properties": {
+        "name": "and nipple discharge. trastuzumab combined with chemotherapy reduced recurrence risk.",
+        "type": "drug"
+      }
+    },
+    {
+      "id": "symptom_##iac_toxicity",
+      "label": "Symptom",
+      "properties": {
+        "name": "##iac toxicity",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_breast_lump",
+      "label": "Symptom",
+      "properties": {
+        "name": "breast lump",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_card",
+      "label": "Symptom",
+      "properties": {
+        "name": "card",
+        "type": "symptom"
+      }
+    },
+    {
+      "id": "symptom_breast_cancer",
+      "label": "Symptom",
+      "properties": {
+        "name": "breast cancer",
+        "type": "symptom"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source": "doc_12345678",
+      "target": "gene_patients_patients_with_egfr_exon_19_deletions_showed_significant_response_to_gefitinib_treatment_common_symptoms_included",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_12345678",
+      "target": "gene_this_study_investigates_egfr_gene_mutations_in",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_12345678",
+      "target": "gene_egfr_gene_mutations_and_response_to_gefitinib_in_patients_with",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_12345678",
+      "target": "symptom_non_-_small_cell_lung_cancer",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_12345678",
+      "target": "symptom_cough",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_12345678",
+      "target": "symptom_rash",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_12345678",
+      "target": "symptom_diarrhea",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_12345678",
+      "target": "symptom_chest_pain",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_12345678",
+      "target": "symptom_##yspnea",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_23456789",
+      "target": "gene_patients_with_brca1_or_brca2_mutations_receiving_olaparib_showed_improved_progression_-_free_survival_symptoms_like",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_23456789",
+      "target": "gene_brca1_and_brca2_mutations_in",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_23456789",
+      "target": "drug_patients_treated_with_olaparib",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_23456789",
+      "target": "drug_were_common_olaparib_treatment_led_to_reduced",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_23456789",
+      "target": "symptom_bloating",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_23456789",
+      "target": "symptom_tumor",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_23456789",
+      "target": "symptom_abdominal_pain",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_23456789",
+      "target": "symptom_##ologic",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_23456789",
+      "target": "symptom_toxicities",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_23456789",
+      "target": "symptom_ovarian_cancer",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_34567890",
+      "target": "drug_metformin_effectively_lowers_blood_glucose_levels_in",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_34567890",
+      "target": "drug_effect_of_metformin_on_blood_glucose_control_in",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_34567890",
+      "target": "symptom_##olyuria",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_34567890",
+      "target": "symptom_polydipsia",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_34567890",
+      "target": "symptom_patients_common_symptoms_included",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_34567890",
+      "target": "symptom_type_2_diabetes",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_45678901",
+      "target": "gene_her2_overexpression_and_trastuzumab_efficacy_in",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_45678901",
+      "target": "gene_her2_-_positive",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_45678901",
+      "target": "drug_patients_treated_with_trastuzumab_showed_improved_survival_symptoms_included",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_45678901",
+      "target": "drug_and_nipple_discharge_trastuzumab_combined_with_chemotherapy_reduced_recurrence_risk",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_45678901",
+      "target": "symptom_##iac_toxicity",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_45678901",
+      "target": "symptom_breast_lump",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_45678901",
+      "target": "symptom_card",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "doc_45678901",
+      "target": "symptom_breast_cancer",
+      "type": "CONTAINS",
+      "properties": {}
+    }
+  ]
+}
