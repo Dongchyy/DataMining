@@ -1,0 +1,86 @@
+{
+    "bert_results": {
+        "accuracy": 0.9250749250749251,
+        "f1_score": 0.9237029501525941,
+        "auc_roc": 0.9798928363238548,
+        "confusion_matrix": [
+            [
+                472,
+                35
+            ],
+            [
+                40,
+                454
+            ]
+        ]
+    },
+    "traditional_results": {
+        "SVM": {
+            "accuracy": 0.8001998001998002,
+            "f1_score": 0.8003992015968064,
+            "auc_roc": 0.8988413226968195,
+            "train_time": 2.7066383361816406,
+            "confusion_matrix": [
+                [
+                    400,
+                    107
+                ],
+                [
+                    93,
+                    401
+                ]
+            ]
+        },
+        "Logistic Regression": {
+            "accuracy": 0.8091908091908092,
+            "f1_score": 0.8125613346418057,
+            "auc_roc": 0.9037523257392456,
+            "train_time": 0.08195877075195312,
+            "confusion_matrix": [
+                [
+                    396,
+                    111
+                ],
+                [
+                    80,
+                    414
+                ]
+            ]
+        },
+        "Naive Bayes": {
+            "accuracy": 0.8001998001998002,
+            "f1_score": 0.8127340823970037,
+            "auc_roc": 0.892960097102109,
+            "train_time": 0.05475592613220215,
+            "confusion_matrix": [
+                [
+                    367,
+                    140
+                ],
+                [
+                    60,
+                    434
+                ]
+            ]
+        }
+    },
+    "experiment_config": {
+        "train_samples": 2000,
+        "test_samples": 1001,
+        "epochs": 3,
+        "learning_rate": 2e-05,
+        "batch_size": 16,
+        "max_length": 170
+    },
+    "dataset_info": {
+        "train_original_size": 10000,
+        "val_size": 1001,
+        "test_size": 1001,
+        "class_distribution": {
+            "train_positive": 5097,
+            "train_negative": 4903,
+            "test_positive": 494,
+            "test_negative": 507
+        }
+    }
+}

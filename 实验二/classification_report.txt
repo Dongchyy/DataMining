@@ -1,0 +1,22 @@
+BERT Model Classification Report
+==================================================
+Accuracy: 0.9251
+F1-score: 0.9237
+AUC-ROC: 0.9799
+
+Confusion Matrix:
+[[472  35]
+ [ 40 454]]
+
+Detailed Classification Report:
+负面 - Precision: 0.9219, Recall: 0.9310, F1: 0.9264
+正面 - Precision: 0.9284, Recall: 0.9190, F1: 0.9237
+
+Model Comparison Summary:
+----------------------------------------
+Model                Accuracy   F1-score   AUC-ROC   
+----------------------------------------
+BERT                 0.9251     0.9237     0.9799
+SVM                  0.8002     0.8004     0.8988
+Logistic Regression  0.8092     0.8126     0.9038
+Naive Bayes          0.8002     0.8127     0.8930
