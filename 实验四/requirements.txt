@@ -1,0 +1,10 @@
+streamlit==1.28.1
+transformers==4.35.0
+sentence-transformers==2.2.2
+torch==2.3.0
+numpy==1.24.3
+pymilvus==2.3.3
+beautifulsoup4==4.12.2
+tqdm==4.66.1
+huggingface-hub==0.19.4
+accelerate==0.24.1  # transformers依赖
